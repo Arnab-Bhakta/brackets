@@ -1,3 +1,6 @@
+| :zap: On January 31, 2021, Adobe will end support for Brackets. If you would like to continue using, maintaining, and improving Brackets, you can fork the project on GitHub. Through Adobe’s partnership with Microsoft, we encourage users to migrate to Visual Studio Code, Microsoft’s free code editor built on open source! |
+|--------------------|
+
 Welcome to Brackets! [![Build Status](https://travis-ci.org/adobe/brackets.svg?branch=master)](https://travis-ci.org/adobe/brackets)
 -------------------
 
